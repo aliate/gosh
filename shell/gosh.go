@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/vladimirvivien/gosh/api"
+	"github.com/aliate/gosh/api"
 )
 
 var (
